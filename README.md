@@ -109,7 +109,7 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## 👥 Auteurs
 
-- Votre Nom - [@jkmpro](https://github.com/jkmpro)
+- Votre Nom - [@jkmpro9](https://github.com/jkmpro9)
 
 ## 🙏 Remerciements
 
